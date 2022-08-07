@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RhysAlfShaw
-- 👀 I’m interested in Computational Astrophysics/Science
-- 🌱 I’m currently learning Fortran
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
+- 👋 Hi, I’m Rhys Shaw
+- 👀 I’m interested in Astrophysics and Artifical Intellegence!!
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on SCIENCE!!
+- 📫 How to reach me ....
 
 <!---
 RhysAlfShaw/RhysAlfShaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
