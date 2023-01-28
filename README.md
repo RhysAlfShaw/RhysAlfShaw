@@ -1,5 +1,5 @@
 <div>
-<img src="https://apod.nasa.gov/apod/image/2301/M_45_Plejarden_Stefan_Thrun_klein4096.jpg" width="700" />
+<img src="https://apod.nasa.gov/apod/image/2301/M_45_Plejarden_Stefan_Thrun_klein4096.jpg" height="400" />
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -17,9 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg"title="TF" alt="TF" width="40" height="40"/>&nbsp;
 </div>
 
----
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RhysAlfShaw&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhysAlfShaw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
