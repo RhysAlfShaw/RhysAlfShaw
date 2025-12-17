@@ -21,5 +21,4 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](https://ghstats.rhysalfshaw.com?user=RhysAlfShaw)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhysAlfShaw&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
